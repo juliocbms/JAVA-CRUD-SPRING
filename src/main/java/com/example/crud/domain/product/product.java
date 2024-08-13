@@ -20,9 +20,12 @@ private  String name;
 
 private Integer price_inc_cents;
 
+private  Boolean active;
+
 public product(RequestProduct requestProduct){
     this.name = requestProduct.name();
     this.price_inc_cents = requestProduct.price_inc_cents();
+    this.active = true;
 }
 
 }
