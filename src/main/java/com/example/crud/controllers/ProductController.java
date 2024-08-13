@@ -44,7 +44,7 @@ public class ProductController {
             product.setPrice_inc_cents(data.price_inc_cents());
             return ResponseEntity.ok(product);
         } else {
-            return ResponseEntity.notFound().build();
+            throw new EntityNotFoundException();
         }
     }
 
