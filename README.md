@@ -12,8 +12,8 @@ Aplicação simples de CRUD (Create, Read, Update, Delete) usando Java e Spring 
 
 
 ## Funcionalidades ##
-Create: Criar produtos 
-Read: Buscar produtos
-Update: atualizar produtos
-Delete: Deletar produtos
+- Create: Criar produtos 
+- Read: Buscar produtos
+- Update: atualizar produtos
+- Delete: Deletar produtos
 
