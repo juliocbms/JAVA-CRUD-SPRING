@@ -1,5 +1,4 @@
 ### Java CRUD with Spring Boot - DIO ###
-Descrição
 Aplicação simples de CRUD (Create, Read, Update, Delete) usando Java e Spring Boot para gerenciar dados via API REST.
 
 ## Tecnologias ##
